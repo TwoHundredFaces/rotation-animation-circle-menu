@@ -1,1 +1,1 @@
---i = --i = posição dos circulos contidos na tag li
+--i = posição dos circulos contidos na tag li
